@@ -1,0 +1,15 @@
+{C:/Users/nanoTech Corp/Desktop/Control/Control_Test.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/Control/Control_Test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_Control_Test
+
+Top level modules:
+	nR_Control_Test
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/Control/Control.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/Control/Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_Control
+
+Top level modules:
+	nR_Control
+
+} {} {}}

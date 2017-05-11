@@ -1,0 +1,79 @@
+{C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor_Test.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor_Test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nRProcessor_Test
+
+Top level modules:
+	nRProcessor_Test
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MemoryComponents.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MemoryComponents.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_BitShifter
+-- Compiling module nR_Register
+-- Compiling module nR_Memory
+-- Compiling module nR_RegisterBank
+
+Top level modules:
+	nR_BitShifter
+	nR_Register
+	nR_Memory
+	nR_RegisterBank
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/BitConectors.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/BitConectors.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_BitCmp
+-- Compiling module nR_BitExt
+
+Top level modules:
+	nR_BitCmp
+	nR_BitExt
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nRProcessor
+
+Top level modules:
+	nRProcessor
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Gates.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Gates.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_FluxCtrl
+-- Compiling module nR_NOT
+-- Compiling module nR_AND2
+-- Compiling module nR_8AND2
+-- Compiling module nR_AND4
+-- Compiling module nR_OR4
+
+Top level modules:
+	nR_FluxCtrl
+	nR_NOT
+	nR_AND2
+	nR_8AND2
+	nR_AND4
+	nR_OR4
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Control.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_Control
+
+Top level modules:
+	nR_Control
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MUX.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_MUX2
+-- Compiling module nR_MUX4
+
+Top level modules:
+	nR_MUX2
+	nR_MUX4
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/ALU.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_ALU
+-- Compiling module nR_Adder
+
+Top level modules:
+	nR_ALU
+	nR_Adder
+
+} {} {}}

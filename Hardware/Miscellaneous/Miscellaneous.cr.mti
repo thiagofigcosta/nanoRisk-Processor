@@ -1,0 +1,44 @@
+{C:/Users/nanoTech Corp/Desktop/Miscellaneous/Gates.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/Miscellaneous/Gates.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_FluxCtrl
+-- Compiling module nR_NOT
+-- Compiling module nR_AND2
+-- Compiling module nR_AND4
+-- Compiling module nR_OR4
+
+Top level modules:
+	nR_FluxCtrl
+	nR_NOT
+	nR_AND2
+	nR_AND4
+	nR_OR4
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX_Test.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX_Test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_MUX_Test
+-- Compiling module nR_MUX4_Test
+
+Top level modules:
+	nR_MUX_Test
+	nR_MUX4_Test
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_MUX2
+-- Compiling module nR_MUX4
+
+Top level modules:
+	nR_MUX2
+	nR_MUX4
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/Miscellaneous/BitConectors.v} {2 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/Miscellaneous/BitConectors.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_BitCmp
+-- Compiling module nR_BitExt
+** Warning: (vlog-2121) C:/Users/nanoTech Corp/Desktop/Miscellaneous/BitConectors.v(20): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+
+Top level modules:
+	nR_BitCmp
+	nR_BitExt
+
+} {} {}}

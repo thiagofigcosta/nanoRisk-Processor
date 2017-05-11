@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/17.0
+vnR_Adder
+Z0 !s110 1497481022
+!i10b 1
+!s100 <nab5e2CPc=z0>nQXZYm;0
+I?O7HFej_SHfQR8d]g^FXB1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/nanoTech Corp/Desktop/ALU
+Z3 w1497480752
+Z4 8C:/Users/nanoTech Corp/Desktop/ALU/ALU.v
+Z5 FC:/Users/nanoTech Corp/Desktop/ALU/ALU.v
+L0 100
+Z6 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1497481022.000000
+Z8 !s107 C:/Users/nanoTech Corp/Desktop/ALU/ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/ALU/ALU.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+nn@r_@adder
+vnR_Adder_Test
+R0
+!i10b 1
+!s100 c^nh7=^lbGlI;R5BzLmP50
+IEiXJTNKLiEd2MbLIBz>;I2
+R1
+R2
+Z12 w1497481004
+Z13 8C:/Users/nanoTech Corp/Desktop/ALU/ALU_Test.v
+Z14 FC:/Users/nanoTech Corp/Desktop/ALU/ALU_Test.v
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/Users/nanoTech Corp/Desktop/ALU/ALU_Test.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/ALU/ALU_Test.v|
+!i113 1
+R10
+R11
+nn@r_@adder_@test
+vnR_ALU
+R0
+!i10b 1
+!s100 KzGL7O`:[EYoh]ecK:;Xz0
+I0QBXE3Ge2l@aaN87;3V]J3
+R1
+R2
+R3
+R4
+R5
+L0 10
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@a@l@u
+vnR_ALU_Test
+R0
+!i10b 1
+!s100 @HWA<<=fT`lClVR>U;ah<3
+IhBaSOeCzWKOe0Ii>FSzLd2
+R1
+R2
+R12
+R13
+R14
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+nn@r_@a@l@u_@test

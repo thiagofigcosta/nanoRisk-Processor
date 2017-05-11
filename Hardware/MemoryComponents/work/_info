@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/nanoTech Corp/Data/CEFET/3º Periodo/Trabalhos e Atividades/LAOC/Pratica-8_Thiago_Figueiredo_Costa
+vnR_BitShifter
+Z0 !s110 1497401459
+!i10b 1
+!s100 8CbmIE76FX@Fh>T4C2aR61
+I[:A1FAA3ZkG<V5k[;AE`H1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/nanoTech Corp/Desktop/MemoryComponents
+Z3 w1497401379
+Z4 8C:/Users/nanoTech Corp/Desktop/MemoryComponents/MemoryComponents.v
+Z5 FC:/Users/nanoTech Corp/Desktop/MemoryComponents/MemoryComponents.v
+L0 8
+Z6 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1497401459.000000
+Z8 !s107 C:/Users/nanoTech Corp/Desktop/MemoryComponents/MemoryComponents.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/MemoryComponents/MemoryComponents.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+nn@r_@bit@shifter
+vnR_Memory
+R0
+!i10b 1
+!s100 WK=VKmJh_^D?I80=8IL4U1
+ITKO]2`jFFIZFHVGh9`XW42
+R1
+R2
+R3
+R4
+R5
+L0 69
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@memory
+vnR_MemoryComponents_BS_Test
+R0
+!i10b 1
+!s100 3J:Q20<l]XKLN^1=J=ahU0
+IgJ<8>mXC]a?>Ul`<^8[=K0
+R1
+R2
+Z12 w1497401453
+Z13 8C:/Users/nanoTech Corp/Desktop/MemoryComponents/MemoryComponents_Test.v
+Z14 FC:/Users/nanoTech Corp/Desktop/MemoryComponents/MemoryComponents_Test.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/Users/nanoTech Corp/Desktop/MemoryComponents/MemoryComponents_Test.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/MemoryComponents/MemoryComponents_Test.v|
+!i113 1
+R10
+R11
+nn@r_@memory@components_@b@s_@test
+vnR_MemoryComponents_RAM_Test
+R0
+!i10b 1
+!s100 k3N`dXV?b6N;P1EJIIk_i1
+I0LO<?LRk<JE>AoOKDjRmm3
+R1
+R2
+R12
+R13
+R14
+L0 97
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+nn@r_@memory@components_@r@a@m_@test
+vnR_MemoryComponents_Reg_Test
+R0
+!i10b 1
+!s100 VU2`5?<c4[1_BUNVPH`TO3
+I2FVa^0`eWgWk2<m=R<6]L1
+R1
+R2
+R12
+R13
+R14
+L0 25
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+nn@r_@memory@components_@reg_@test
+vnR_MemoryComponents_RegBank_Test
+R0
+!i10b 1
+!s100 >0Zmh^AcK57MSG1Sjnbbh3
+IPK@g_d?M2BdbQjN8nYQY]2
+R1
+R2
+R12
+R13
+R14
+L0 49
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+nn@r_@memory@components_@reg@bank_@test
+vnR_Register
+R0
+!i10b 1
+!s100 @`>c[Ue[COc@WX>cP43Pe0
+IW:edQeUF]6H?@21=QV[BK0
+R1
+R2
+R3
+R4
+R5
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@register
+vnR_RegisterBank
+R0
+!i10b 1
+!s100 RWeVGY1JF8Kd3HIF1BhKc3
+I:Zz@4<F[Te@cmFJ^DkEYZ0
+R1
+R2
+R3
+R4
+R5
+L0 118
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@register@bank

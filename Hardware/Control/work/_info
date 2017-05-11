@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/17.0
+vnR_Control
+Z0 !s110 1497402324
+!i10b 1
+!s100 ^A1ikAWHIghoamOYnQ4g:1
+In8Z>;B9:37`dZ2iY^2i1V0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/nanoTech Corp/Desktop/Control
+w1497402282
+8C:/Users/nanoTech Corp/Desktop/Control/Control.v
+FC:/Users/nanoTech Corp/Desktop/Control/Control.v
+L0 15
+Z3 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1497402324.000000
+!s107 C:/Users/nanoTech Corp/Desktop/Control/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/Control/Control.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+nn@r_@control
+vnR_Control_Test
+R0
+!i10b 1
+!s100 ]Gj9Tih96SV?Nik50f0Qg3
+IJ2I>kU^i^8NaR6H:L8^;<2
+R1
+R2
+w1497402316
+8C:/Users/nanoTech Corp/Desktop/Control/Control_Test.v
+FC:/Users/nanoTech Corp/Desktop/Control/Control_Test.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/nanoTech Corp/Desktop/Control/Control_Test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/Control/Control_Test.v|
+!i113 1
+R5
+R6
+nn@r_@control_@test

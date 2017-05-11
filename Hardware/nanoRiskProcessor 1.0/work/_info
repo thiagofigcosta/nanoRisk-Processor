@@ -1,0 +1,428 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/17.0
+vnR_8AND2
+Z0 !s110 1498844295
+!i10b 1
+!s100 Yb>LALP?hgo_9eOF;di><0
+IW^hPJd272ooTb=5oSWkce2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/nanoTech Corp/Desktop/nanoRiskProcessor
+Z3 w1498236936
+Z4 8C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Gates.v
+Z5 FC:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Gates.v
+L0 45
+Z6 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1498844295.000000
+Z8 !s107 C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Gates.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Gates.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+nn@r_8@a@n@d2
+vnR_Adder
+R0
+!i10b 1
+!s100 ;BRM_l22oeALc41V39nKj3
+IQ`02]]@kA<Ydb@UmP8^>20
+R1
+R2
+Z12 w1498843011
+Z13 8C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/ALU.v
+Z14 FC:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/ALU.v
+L0 101
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/ALU.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/ALU.v|
+!i113 1
+R10
+R11
+nn@r_@adder
+vnR_ALU
+R0
+!i10b 1
+!s100 NzhQnBWHo7_[h0UcBKz@H1
+Ibnk9g7d`UOiAT^Je<UB4n3
+R1
+R2
+R12
+R13
+R14
+L0 10
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+nn@r_@a@l@u
+vnR_AND2
+R0
+!i10b 1
+!s100 _CahJb?=Ele2?YI_ZEYRo0
+Ia=`b@z0?UcJ?PEA?z9UUl3
+R1
+R2
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@a@n@d2
+vnR_AND4
+R0
+!i10b 1
+!s100 EmYDiAXT9i?LhWm7=044h2
+IQV=Cc@GoThVZ5bT`DH9Pj2
+R1
+R2
+R3
+R4
+R5
+L0 64
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@a@n@d4
+vnR_BitCmp
+R0
+!i10b 1
+!s100 8gMo?`dd5<RBWAQLO<Hdz0
+I;6FQm:J3`kZgd8<lB:3S71
+R1
+R2
+Z17 w1498235028
+Z18 8C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/BitConectors.v
+Z19 FC:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/BitConectors.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+Z20 !s107 C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/BitConectors.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/BitConectors.v|
+!i113 1
+R10
+R11
+nn@r_@bit@cmp
+vnR_BitExt
+R0
+!i10b 1
+!s100 8NfEVnX0S]oIMFLk^^lQX3
+IFRcfo2Pg1Az2MWRC4LMzm0
+R1
+R2
+R17
+R18
+R19
+L0 17
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+nn@r_@bit@ext
+vnR_BitShifter
+R0
+!i10b 1
+!s100 8CbmIE76FX@Fh>T4C2aR61
+IcQ9`XKmVh3j]d29TD1=dA2
+R1
+R2
+Z22 w1498842864
+Z23 8C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MemoryComponents.v
+Z24 FC:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MemoryComponents.v
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+Z25 !s107 C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MemoryComponents.v|
+Z26 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MemoryComponents.v|
+!i113 1
+R10
+R11
+nn@r_@bit@shifter
+vnR_Control
+R0
+!i10b 1
+!s100 ^A1ikAWHIghoamOYnQ4g:1
+IVJ^n6]gaH2IWX=XH?lISV1
+R1
+R2
+w1497543362
+8C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Control.v
+FC:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Control.v
+L0 15
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/Control.v|
+!i113 1
+R10
+R11
+nn@r_@control
+vnR_FluxCtrl
+R0
+!i10b 1
+!s100 OH0Q:oTC@Ak2>O`7[Z=jJ2
+IXPi0ITdoC<^efUOUEngbZ1
+R1
+R2
+R3
+R4
+R5
+L0 7
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@flux@ctrl
+vnR_Memory
+R0
+!i10b 1
+!s100 RfJd>GIKalW2YDFkR3HC21
+IhT?@ia`5LZ=kP;NPkFX0D1
+R1
+R2
+R22
+R23
+R24
+L0 69
+R6
+r1
+!s85 0
+31
+R7
+R25
+R26
+!i113 1
+R10
+R11
+nn@r_@memory
+vnR_MUX2
+Z27 !s110 1498844296
+!i10b 1
+!s100 eiMYaVeQ<`XBBVkBmAD:V3
+IaTDl<0ClH7cXDdbM_f0f43
+R1
+R2
+Z28 w1498843107
+Z29 8C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MUX.v
+Z30 FC:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MUX.v
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+Z31 !s107 C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MUX.v|
+Z32 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/MUX.v|
+!i113 1
+R10
+R11
+nn@r_@m@u@x2
+vnR_MUX4
+R27
+!i10b 1
+!s100 0HRWK0dcW<m`E_?UeS@Q:0
+Iz=dSA=j]akkhfX<?`@z:P1
+R1
+R2
+R28
+R29
+R30
+L0 25
+R6
+r1
+!s85 0
+31
+R7
+R31
+R32
+!i113 1
+R10
+R11
+nn@r_@m@u@x4
+vnR_NOT
+R0
+!i10b 1
+!s100 aLWmeY_4Y=ZAiVLB>XbLD0
+IIo6k447ofgO=CO:7]3Xc:3
+R1
+R2
+R3
+R4
+R5
+L0 19
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@n@o@t
+vnR_OR4
+R0
+!i10b 1
+!s100 Zo7gSOn@SJi97T_Y4D5C]3
+I0g=lPHBSUn5;S>@J<MB^=3
+R1
+R2
+R3
+R4
+R5
+L0 78
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@o@r4
+vnR_Register
+R0
+!i10b 1
+!s100 @`>c[Ue[COc@WX>cP43Pe0
+IkIW2a27JAMT6Q;mX`=fVo0
+R1
+R2
+R22
+R23
+R24
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R25
+R26
+!i113 1
+R10
+R11
+nn@r_@register
+vnR_RegisterBank
+R0
+!i10b 1
+!s100 8IQ9SE>41nAZ`@YWiCXQl0
+IT0aI4m86UOM6CLO8oQ?[A0
+R1
+R2
+R22
+R23
+R24
+L0 117
+R6
+r1
+!s85 0
+31
+R7
+R25
+R26
+!i113 1
+R10
+R11
+nn@r_@register@bank
+vnRProcessor
+R27
+!i10b 1
+!s100 VJ37@=f[4X71;4SPn]gJ^3
+IBJFPlIF7@5h?<X<1GVYTc0
+R1
+R2
+w1498844029
+8C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor.v
+FC:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z33 !s108 1498844296.000000
+!s107 C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor.v|
+!i113 1
+R10
+R11
+nn@r@processor
+vnRProcessor_Test
+R27
+!i10b 1
+!s100 :V4NbdfogAPQm^ITbj:ab2
+I_Ob[PVmgOJOzG`Cd_kHP=0
+R1
+R2
+w1498844243
+8C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor_Test.v
+FC:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor_Test.v
+L0 1
+R6
+r1
+!s85 0
+31
+R33
+!s107 C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor_Test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/nanoRiskProcessor/nRProcessor_Test.v|
+!i113 1
+R10
+R11
+nn@r@processor_@test

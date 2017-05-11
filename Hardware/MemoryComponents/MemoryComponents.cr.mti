@@ -1,0 +1,14 @@
+{C:/Users/nanoTech Corp/Desktop/MemoryComponents/MemoryComponents.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/MemoryComponents/MemoryComponents.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_BitShifter
+-- Compiling module nR_Register
+-- Compiling module nR_Memory
+-- Compiling module nR_RegisterBank
+
+Top level modules:
+	nR_BitShifter
+	nR_Register
+	nR_Memory
+	nR_RegisterBank
+
+} {} {}}

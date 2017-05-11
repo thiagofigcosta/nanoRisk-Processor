@@ -1,0 +1,5 @@
+set tool_name "ModelSim-Altera (Verilog)"
+set corner_file_list {
+	{{"Slow Model"} {nanoRiskProcessor2.vo nanoRiskProcessor2_v.sdo}}
+	{{"Fast Model"} {nanoRiskProcessor2_fast.vo nanoRiskProcessor2_v_fast.sdo}}
+}

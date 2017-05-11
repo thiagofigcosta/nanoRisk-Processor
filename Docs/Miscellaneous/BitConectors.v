@@ -1,0 +1,22 @@
+//Modulo de Compactador de Bit:
+//Entradas: 	
+//		in: entrada
+//Saidas:	
+//		out: saida
+module nR_BitCmp(in,out);
+	input[7:0] in;
+	output out;
+	assign out =in[0]|in[1]|in[2]|in[3]|in[4]|in[5]|in[6]|in[7];
+endmodule
+
+//Modulo de Extensor de Bit:
+//Entradas: 	
+//		in: entrada
+//Saidas:	
+//		out: saida
+module nR_BitExt(in,out);
+	input[3:0] in;
+	output[7:0] out;
+	assign out = {0,in};
+endmodule
+

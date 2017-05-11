@@ -1,0 +1,252 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/17.0
+vnR_AND2
+Z0 !s110 1497542457
+!i10b 1
+!s100 _CahJb?=Ele2?YI_ZEYRo0
+IeA]GIUMV[JcCcFLN;d5m^0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/nanoTech Corp/Desktop/Miscellaneous
+Z3 w1497538682
+Z4 8C:/Users/nanoTech Corp/Desktop/Miscellaneous/Gates.v
+Z5 FC:/Users/nanoTech Corp/Desktop/Miscellaneous/Gates.v
+L0 32
+Z6 OV;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1497542457.000000
+Z8 !s107 C:/Users/nanoTech Corp/Desktop/Miscellaneous/Gates.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/Miscellaneous/Gates.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+nn@r_@a@n@d2
+vnR_AND4
+R0
+!i10b 1
+!s100 3Qk_J55n6l=K2dFlVZ3XM1
+ISXj8jmbgD_6Uk4@7H7_<a3
+R1
+R2
+R3
+R4
+R5
+L0 46
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@a@n@d4
+vnR_BitCmp
+Z12 !s110 1497542458
+!i10b 1
+!s100 8gMo?`dd5<RBWAQLO<Hdz0
+IDXNXfSMm[h4Y=L2KlI^bP3
+R1
+R2
+Z13 w1497541892
+Z14 8C:/Users/nanoTech Corp/Desktop/Miscellaneous/BitConectors.v
+Z15 FC:/Users/nanoTech Corp/Desktop/Miscellaneous/BitConectors.v
+L0 6
+R6
+r1
+!s85 0
+31
+Z16 !s108 1497542458.000000
+Z17 !s107 C:/Users/nanoTech Corp/Desktop/Miscellaneous/BitConectors.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/Miscellaneous/BitConectors.v|
+!i113 1
+R10
+R11
+nn@r_@bit@cmp
+vnR_BitExt
+R12
+!i10b 1
+!s100 azl1o24UfWN:FXTOc0]zC0
+I[i8RX5h:5jkC[`<TRf?dg2
+R1
+R2
+R13
+R14
+R15
+L0 17
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+nn@r_@bit@ext
+vnR_FluxCtrl
+R0
+!i10b 1
+!s100 OH0Q:oTC@Ak2>O`7[Z=jJ2
+ICbE0Rol2OUe>fAC?IE:C?2
+R1
+R2
+R3
+R4
+R5
+L0 7
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@flux@ctrl
+vnR_MUX2
+R0
+!i10b 1
+!s100 eiMYaVeQ<`XBBVkBmAD:V3
+Ig:LmKJ?OnGlAj]>ZSReHH0
+R1
+R2
+Z19 w1497542454
+Z20 8C:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX.v
+Z21 FC:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX.v
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+Z22 !s107 C:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX.v|
+!i113 1
+R10
+R11
+nn@r_@m@u@x2
+vnR_MUX4
+R0
+!i10b 1
+!s100 l;jG>:F[>NI1`:aU=b3j42
+I=^1B6lScb9WMDh8Y90NRT2
+R1
+R2
+R19
+R20
+R21
+L0 25
+R6
+r1
+!s85 0
+31
+R7
+R22
+R23
+!i113 1
+R10
+R11
+nn@r_@m@u@x4
+vnR_MUX4_Test
+R12
+!i10b 1
+!s100 5N_nl?`a9emN=V5=oRdKj0
+IT@C=84E_7IbZJdLZUK:1k1
+R1
+R2
+Z24 w1497542446
+Z25 8C:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX_Test.v
+Z26 FC:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX_Test.v
+L0 23
+R6
+r1
+!s85 0
+31
+R16
+Z27 !s107 C:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX_Test.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nanoTech Corp/Desktop/Miscellaneous/MUX_Test.v|
+!i113 1
+R10
+R11
+nn@r_@m@u@x4_@test
+vnR_MUX_Test
+R12
+!i10b 1
+!s100 6l0Q3b3ELm<a<2]XK7@m@2
+Iil@6n3C<Q2M^JY=V4Ka@20
+R1
+R2
+R24
+R25
+R26
+L0 3
+R6
+r1
+!s85 0
+31
+R16
+R27
+R28
+!i113 1
+R10
+R11
+nn@r_@m@u@x_@test
+vnR_NOT
+R0
+!i10b 1
+!s100 aLWmeY_4Y=ZAiVLB>XbLD0
+IMT_7UmTH0ML9XdLYN>IT51
+R1
+R2
+R3
+R4
+R5
+L0 19
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@n@o@t
+vnR_OR4
+R0
+!i10b 1
+!s100 ^VG=5Kh:WWcdPccZ>a0QZ1
+IQSUFgRj<=<OA@;YAoc[_n3
+R1
+R2
+R3
+R4
+R5
+L0 60
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nn@r_@o@r4

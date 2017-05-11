@@ -1,0 +1,19 @@
+{C:/Users/nanoTech Corp/Desktop/ALU/ALU.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/ALU/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_ALU
+-- Compiling module nR_Adder
+
+Top level modules:
+	nR_ALU
+	nR_Adder
+
+} {} {}} {C:/Users/nanoTech Corp/Desktop/ALU/ALU_Test.v} {1 {vlog -work work -stats=none {C:/Users/nanoTech Corp/Desktop/ALU/ALU_Test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5c Compiler 2017.01 Jan 23 2017
+-- Compiling module nR_ALU_Test
+-- Compiling module nR_Adder_Test
+
+Top level modules:
+	nR_ALU_Test
+	nR_Adder_Test
+
+} {} {}}
